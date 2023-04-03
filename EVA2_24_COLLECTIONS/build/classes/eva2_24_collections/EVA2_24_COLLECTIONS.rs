@@ -1,0 +1,2 @@
+eva2_24_collections.EVA2_24_COLLECTIONS
+eva2_24_collections.Persona
